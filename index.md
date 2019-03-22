@@ -17,9 +17,6 @@ I am M. Tech Student at Department of Computational and Data Sciences at IISc, B
 ## Links & Contact
 
 [*Resume*](https://drive.google.com/open?id=1s8OAejScB-feWWKaQ8vvIgTzYcqXWkr1)
-
 [*Github*](https://github.com/rv-chittersu)
-
 [*Linkedin*](https://www.linkedin.com/in/raghu-vamsi-chittersu/)
-
 [*Mail*](mailto:raghu.krishna8@gmail.com)
