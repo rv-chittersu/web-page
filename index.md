@@ -14,7 +14,7 @@ I am M. Tech Student at Department of Computational and Data Sciences at IISc, B
 
 *2016*    - Intern at Bluejeans Networks, Bengaluru.
 
-## Links & Contact
+## Links and Contact
 
 [*Resume*](https://drive.google.com/open?id=1s8OAejScB-feWWKaQ8vvIgTzYcqXWkr1)
 [*Github*](https://github.com/rv-chittersu)
